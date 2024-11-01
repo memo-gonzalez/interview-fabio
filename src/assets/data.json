@@ -1,0 +1,46 @@
+{
+    "products":[
+        {
+            "image":"hamburger",
+            "name":"Hamburger",
+            "price":"10",
+            "category":"Food",
+            "status":"In stock"
+        },
+        {
+            "image":"water",
+            "name":"Water",
+            "price":"8",
+            "category":"Beverage",
+            "status":"In stock"
+        },
+        {
+            "image":"fries",
+            "name":"Fries",
+            "price":"4",
+            "category":"Food",
+            "status":"Out of stock"
+        },
+        {
+            "image":"soda",
+            "name":"Soda",
+            "price":"2",
+            "category":"Beverage",
+            "status":"Out of stock"
+        },
+        {
+            "image":"sandwich",
+            "name":"Sandwich",
+            "price":"9",
+            "category":"Food",
+            "status":"In stock"
+        },
+        {
+            "image":"hotdog",
+            "name":"Hot Dog",
+            "price":"6",
+            "category":"Dessert",
+            "status":"In stock"
+        }
+    ]
+}
